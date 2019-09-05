@@ -4,7 +4,7 @@ title : STREAM
 author : yeji
 
 ---
-##두번째 크기
+## 두번째 크기
 
 ```java
 public static void main(String args[]){
@@ -14,5 +14,5 @@ public static void main(String args[]){
 	}
 }
 ```
-~굵게~
+**굵게** 
 
