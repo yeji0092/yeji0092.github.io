@@ -1,6 +1,18 @@
 ---
 layout : post
-title : first post
+title : STREAM
 author : yeji
+
 ---
-첫번째 글 :
+##두번째 크기
+
+```java
+public static void main(String args[]){
+
+	public func (int i){
+		System.out.ln(i);
+	}
+}
+```
+~굵게~
+
