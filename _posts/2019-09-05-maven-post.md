@@ -3,7 +3,7 @@ layout : post
 title : MAVEN(1)
 author : yeji
 date: 2019-09-09 
-categories: maven
+categories: java
 
 ---
 ## MAVEN
