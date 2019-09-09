@@ -2,6 +2,8 @@
 layout : post
 title : STREAM
 author : yeji
+date: 2019-09-09 
+categories: java
 
 ---
 ## 두번째 크기
