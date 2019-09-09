@@ -1,6 +1,6 @@
 ---
 layout : post
-title : STREAM
+title : MAVEN(1)
 author : yeji
 date: 2019-09-09 
 categories: maven
@@ -180,7 +180,9 @@ pom.xml은 POM(Project Object Model)을 설정하는 부분으로 프로젝트 �
 </profiles>
 ```
 
- **ex) mvn compile -P prod 라고 하면 ${java.version}은 1.9가 된다.**
+ **ex) mvn compile -P prod 라고 하면 ${java.version}은 1.9가 된다.**  
+ 
+ 
  
 
 
