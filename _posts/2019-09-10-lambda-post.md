@@ -11,7 +11,7 @@ categories : java
 - 함수를 간략하면서도 명확한 식으로 표현가능
 - 메소드를 람다식으로 표현 시, 메소드 이름 및 반환값이 없어지므로 익명함수 라고도 함
 - 람다식의 형태는 매개 변수를 가진 코드블록이지만, 런타임 시에는 익명 구현 객체를 생성
-
+---
 ## 1. Lambda의 표현 방식
 
 ````
@@ -21,7 +21,7 @@ categories : java
 () -> expression body
 ````
 
-
+---
 ## 2. Lambda를 사용한 Map foreach
 
 ```java
@@ -82,7 +82,7 @@ finalMap.forEach((k,v) ->{
 
 ```
 
-
+---
 ## 3. Lambda로 interface 추상화메소드 호출
 
 ```java
@@ -128,8 +128,9 @@ public static void main(String[] args) {
   // output : -4
 }
 ```
+  
 
-
+---
 ## 4. Lambda를 사용하여 함수 정의 및 호출
 
 ```java
@@ -146,6 +147,7 @@ new Thread(()-> {
 
 ```
 
+---
 
 ## 5. Lambda를 사용하여 List Stream Method
 

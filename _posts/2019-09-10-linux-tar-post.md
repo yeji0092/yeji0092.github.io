@@ -8,7 +8,7 @@ categories : LINUX
 ---
 
 ## LINUX tar 이용 
-
+---
 
 **현재 디렉토리에 있는 모든 파일 묶기**
 * tar cvf 파일명 ./*

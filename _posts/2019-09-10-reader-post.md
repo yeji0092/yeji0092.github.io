@@ -26,7 +26,6 @@ Scanner VS BufferedReader (+InputStreamReader)
 * `BufferedReader`의 경우 예외처리를 꼭 해주어야한다.  
 readLine 할때마다 try&catch 활용(보통 throws IOException 활용)  
 
----
 
 `BufferedReader`의 장점  
 * 속도가 빠르다.  
@@ -38,7 +37,7 @@ readLine 할때마다 try&catch 활용(보통 throws IOException 활용)
 멀티쓰레드의 경우, 여러 쓰레드가 같은 프로세스 내에서 자원을 공유하므로 서로의 작업에 영향을 줄 수 있다.  
 `BufferedReader`는 동기화가 되므로 멀티쓰레드에 안전하다.  
 
-
+---
 
 Scanner
 ---
@@ -58,7 +57,7 @@ Female
 26
 */
 ```
-
+---
 BufferedReader
 ---
 
@@ -94,7 +93,7 @@ int i2 = Integer.parseInt(st.nextToken());
 String arr[] = s.split(" ");
 ```
 
-
+---
 +BufferedWriter
 ---
 일반적인 출력때는 `System.out.println("");` 사용하나,  
