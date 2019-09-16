@@ -1,9 +1,9 @@
 ---
 layout : post
-title : NOHUP
+title : NOHUP 명령어
 author : YEJI KIM
-date: 2019-09-16
-categories: LINUX
+date : 2019-09-16
+categories : LINUX
 
 ---
 
