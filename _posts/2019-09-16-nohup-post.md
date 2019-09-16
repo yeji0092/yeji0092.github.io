@@ -3,7 +3,7 @@ layout : post
 title : NOHUP
 author : YEJI KIM
 date: 2019-09-16
-categories: linux
+categories: LINUX
 
 ---
 
