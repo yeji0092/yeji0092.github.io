@@ -2,7 +2,7 @@
 layout : post
 title : bin 파일(이진파일) & batch파일
 author : YEJI KIM
-date: 2019-09-09
+date: 2019-09-27
 categories: TIP
 
 ---
