@@ -1,6 +1,7 @@
+
 ---
 layout : post
-title : [PART01-시스템보안]
+title : PART01-시스템보안] Register란?
 author : YEJI KIM
 date : 2020-02-27
 categories : 정보보안기사
